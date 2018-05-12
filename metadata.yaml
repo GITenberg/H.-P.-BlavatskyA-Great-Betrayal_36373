@@ -1,0 +1,28 @@
+_repo: H.-P.-BlavatskyA-Great-Betrayal_36373
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36373-h/images/cover.png
+creator:
+  author:
+    agent_name: Cleather, Alice Leighton
+    gutenberg_agent_id: '38234'
+    url: http://www.gutenberg.org/2009/agents/38234
+description: ''
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36373'
+  lccn: '23013417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Besant, Annie, 1847-1933'
+- !lcsh 'Blavatsky, H. P. (Helena Petrovna), 1831-1891'
+- !lcsh 'Leadbeater, C. W. (Charles Webster), 1854-1934'
+- !lcsh 'Theosophical Society (Chennai, India)'
+title: H. P. Blavatsky; A Great Betrayal
+url: http://www.gutenberg.org/ebooks/36373
